@@ -1,0 +1,17 @@
+d:\C#\Projects\WinForms\FileSizeReader\FileSizeReader\FileSizeReader\FileOperations\bin\Debug\FileOperations.dll
+d:\C#\Projects\WinForms\FileSizeReader\FileSizeReader\FileSizeReader\FileOperations\bin\Debug\FileOperations.pdb
+d:\C#\Projects\WinForms\FileSizeReader\FileSizeReader\FileSizeReader\FileOperations\bin\Debug\Model.dll
+d:\C#\Projects\WinForms\FileSizeReader\FileSizeReader\FileSizeReader\FileOperations\bin\Debug\Model.pdb
+d:\C#\Projects\WinForms\FileSizeReader\FileSizeReader\FileSizeReader\FileOperations\obj\Debug\FileOperations.csprojAssemblyReference.cache
+d:\C#\Projects\WinForms\FileSizeReader\FileSizeReader\FileSizeReader\FileOperations\obj\Debug\FileOperations.csproj.CopyComplete
+d:\C#\Projects\WinForms\FileSizeReader\FileSizeReader\FileSizeReader\FileOperations\obj\Debug\FileOperations.dll
+d:\C#\Projects\WinForms\FileSizeReader\FileSizeReader\FileSizeReader\FileOperations\obj\Debug\FileOperations.pdb
+d:\PogrTest\WinFormTest\FileSizeReader\FileSizeReader\FileSizeReader\FileOperations\bin\Debug\FileOperations.dll
+d:\PogrTest\WinFormTest\FileSizeReader\FileSizeReader\FileSizeReader\FileOperations\bin\Debug\FileOperations.pdb
+d:\PogrTest\WinFormTest\FileSizeReader\FileSizeReader\FileSizeReader\FileOperations\bin\Debug\Model.dll
+d:\PogrTest\WinFormTest\FileSizeReader\FileSizeReader\FileSizeReader\FileOperations\bin\Debug\Model.pdb
+d:\PogrTest\WinFormTest\FileSizeReader\FileSizeReader\FileSizeReader\FileOperations\obj\Debug\FileOperations.csproj.CoreCompileInputs.cache
+d:\PogrTest\WinFormTest\FileSizeReader\FileSizeReader\FileSizeReader\FileOperations\obj\Debug\FileOperations.csproj.CopyComplete
+d:\PogrTest\WinFormTest\FileSizeReader\FileSizeReader\FileSizeReader\FileOperations\obj\Debug\FileOperations.dll
+d:\PogrTest\WinFormTest\FileSizeReader\FileSizeReader\FileSizeReader\FileOperations\obj\Debug\FileOperations.pdb
+d:\PogrTest\WinFormTest\FileSizeReader\FileSizeReader\FileSizeReader\FileOperations\obj\Debug\FileOperations.csprojAssemblyReference.cache

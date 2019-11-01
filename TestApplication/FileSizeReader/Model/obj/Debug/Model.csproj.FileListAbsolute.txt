@@ -1,0 +1,11 @@
+d:\C#\Projects\WinForms\FileSizeReader\FileSizeReader\Model\bin\Debug\Model.dll
+d:\C#\Projects\WinForms\FileSizeReader\FileSizeReader\Model\bin\Debug\Model.pdb
+d:\C#\Projects\WinForms\FileSizeReader\FileSizeReader\Model\obj\Debug\Model.dll
+d:\C#\Projects\WinForms\FileSizeReader\FileSizeReader\Model\obj\Debug\Model.pdb
+d:\C#\Projects\WinForms\FileSizeReader\FileSizeReader\Model\obj\Debug\Model.csprojAssemblyReference.cache
+d:\PogrTest\WinFormTest\FileSizeReader\FileSizeReader\Model\bin\Debug\Model.dll
+d:\PogrTest\WinFormTest\FileSizeReader\FileSizeReader\Model\bin\Debug\Model.pdb
+d:\PogrTest\WinFormTest\FileSizeReader\FileSizeReader\Model\obj\Debug\Model.csprojAssemblyReference.cache
+d:\PogrTest\WinFormTest\FileSizeReader\FileSizeReader\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+d:\PogrTest\WinFormTest\FileSizeReader\FileSizeReader\Model\obj\Debug\Model.dll
+d:\PogrTest\WinFormTest\FileSizeReader\FileSizeReader\Model\obj\Debug\Model.pdb
